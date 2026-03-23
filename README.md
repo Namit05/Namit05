@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Namit!
 
-<!--
-**Namit05/Namit05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+- **Branch:** Integrated M.Tech Bioinformatics and Artificial Intelligence  
+- **Year:** 1st Year Student  
 
-Here are some ideas to get you started:
+##  What I’m Learning
+I am currently exploring the basics of programming, bioinformatics, and artificial intelligence. I aim to build strong problem-solving skills and understand how technology can be applied to real-world biological challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Goals
+- Develop strong coding and analytical skills  
+- Gain knowledge in AI and data science  
+- Explore the intersection of biology and technology  
+
