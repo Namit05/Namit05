@@ -57,12 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namitmagotra&show_icons=true&theme=tokyonight&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitmagotra&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
