@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hi gif"/>
+  <img height="160" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding gif"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Namit+Magotra+%7C+Bioinformatics+%2B+AI;Building+with+Python+%26+R;Turning+Data+into+Stories;Poetry+%7C+Code+%7C+Cricket+%F0%9F%8F%8F" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Namit+Magotra+%7C+Bioinformatics+%2B+AI;Building+with+Python+%26+R;Turning+Data+into+Stories;Poetry+%7C+Code+%7C+Cricket" alt="Typing animation">
 </p>
 
 <div align="center">
@@ -26,25 +26,25 @@
 
 ---
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey, I'm Namit 👋</h1>
 
-<h3 align="center">🚀 Bioinformatics × AI | Turning Data into Meaning</h3>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Pursuing **Bioinformatics & Artificial Intelligence**
-- 🧬 Exploring **biological data, ML, and computational science**
-- 💻 Building with **Python, R, NumPy, Pandas**
-- ✍️ Writing **poetry, songs, and stories**
-- 🏏 Cricket enjoyer (because balance matters)
-
-> *“Turning biological data into stories that can shape the world.”*
+<h3 align="center">Bioinformatics × AI | Turning Data into Meaning</h3>
 
 ---
 
-### 🛠 Tech Stack
+### About Me
+
+- Pursuing **Bioinformatics & Artificial Intelligence**  
+- Exploring **biological data, machine learning, and computational science**  
+- Building with **Python, R, NumPy, Pandas**  
+- Writing **poetry, songs, and random late-night thoughts**  
+- Cricket enjoyer (for sanity)
+
+> “Turning biological data into stories that actually mean something.”
+
+---
+
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark"/>
@@ -57,17 +57,22 @@
 
 ---
 
+### Current Focus
+
+- Learning deeper **Machine Learning concepts**  
+- Building small but meaningful **Python projects**  
+- Exploring how **AI meets biology**
 
 ---
 
-### 📬 Contact
+### Contact
 
-📧 **namit130506@gmail.com**
+Email: **namit130506@gmail.com**
 
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="120" alt="Pac-Man"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="120" alt="coding vibe"/>
 </div>
 
 <div align="center">
